@@ -1,0 +1,106 @@
+SRS for Employee Recruitment System
+
+Purpose :
+Employee Recruitment system is a system in which jobseekers can register themselves
+online, view organization requirements and apply for suitable job.
+
+Scope :
+This system has facilities where prospective candidates can upload their CV and apply 
+for jobs suitable to them. It also makes it possible for organizations to post their
+staffing requirements and view profiles of interested candidates.
+
+Functional Requirements :
+
+1) Candidate can register and login into portal using their email and password.
+
+2) Candidate can modify their name, contact details, email and password.
+
+3) Candidate can serach the organizations which is suitable to his interests 
+and skills using filters.
+
+4) Candidate can to see the details of the interested organization and
+to be able to contact them.
+
+5) Candidate can upload their CV into the portal
+
+6) Candidate can apply for the job which he is interested in if he is eligible.
+
+7) Organization can register and login into portal using their email and password
+
+8) Organization can modify their contact details, email and password.
+
+9) Organization can view the porfiles of the candidates in which they are interested.
+
+10) Organization can view the CV of the interested candidate
+
+11)Organization can contact the interested candidate.
+
+12) Organization can give an job offer to the candidate in which they are interested.
+
+
+Business operations :
+
+register
+login
+change password
+forgot password
+verify email
+verify documents
+get the user details
+show job listings
+show organizations
+apply for the job
+cancel the application
+show candidates
+hire the candidate
+
+
+
+Business Entities :
+
+Candidate :
+Candidate name
+Candidate id
+Candidate password
+Candidate email
+Candidate CV
+Candidate contact
+
+Organization:
+Organization name
+Organization id
+Organization contact
+Organization requirements
+
+Job:
+Job listing
+Job role
+Job Location
+Job id
+Job requirements
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
